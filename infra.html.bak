@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <title>CVR ABOUT PAGE</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<style>
+			.center {
+			 display: block;
+			 margin-left: auto;
+			 margin-right: auto;
+			 }
+		</style>
+  <title>Document</title>
+ </head>
+ <body>
+	<div style="color:brown">
+            <img src="logo.png" width="120" height="120"><h1 align="center">CVR COLLEGE OF ENGINEEING</h1>
+	</div><hr>
+	<nav>
+		<pre align="center"><a href="home.html">Home</a>     <a href="about.html">About</a>     <a href="academics.html">Academics</a>     <a href="departments.html">Departments</a>     <a href="research.html">Research</a>     <a href="placements.html">placements</a>     <a href="infra.html">Infrastructure</a>     <a href="contact.html">contact</a></pre>
+	</nav>
+	<hr>
+	<img src="cvr1.jfif" align="left">
+	<img src="cvr2.jfif">
+	<img src="cvr3.jfif">
+	<h1 align="center"> Campus</h1>
+	<h3>The College is spread over a built-up area of over 36,000 sqm. on a sprawling 33-acre campus amidst verdant surroundings.<br>
+		The College has
+	<ul>
+		<li>95 spacious classrooms and 119 labs (all classrooms and labs are equipped with LCD projectors)</li>
+		<li>Air-conditioned conference rooms</li>
+		<li>An independent three storied Library building</li>
+		<li>An independent four storied Student Centre (with canteen, gym, indoor sports, placement cell)</li>
+		<li>Auditorium (seating capacity: 1500, fully air-conditioned, equipped with WiFi and 4 high powered LCD projectors)</li>
+		<li>Extensive outdoor sports facilities</li>
+		<li>Coffee</li>
+		<li>Hostel</li>
+		<li>Health Centre</li>  
+</body>
+</html>
